@@ -1,5 +1,5 @@
 # Epson Connect Setup Utility – Step-by-Step Guide
-The <a href="https://github.com/epsonprintersdrivers/epson-connect-utility/">Epson Connect Setup Utility</a> is a helpful tool that allows users to connect their Epson printers to cloud and wireless printing services. By using this utility, you can complete the <a href="https://github.com/epsonprintersdrivers/epson-connect-utility/">epson connect printer setup</a> and enable features such as remote printing, mobile printing, and email printing.
+The Epson Connect Setup Utility is a helpful tool that allows users to connect their Epson printers to cloud and wireless printing services. By using this utility, you can complete the <a href="https://github.com/epsonprintersdrivers/epson-connect-utility/">epson connect printer setup</a> and enable features such as remote printing, mobile printing, and email printing.
 
 Step 1: Turn On Your Epson Printer
 Start by turning on your Epson printer and making sure it is connected to a stable Wi-Fi network. A proper internet connection is necessary for the epson connect printer setup.
